@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Up and Running with WP-CLI",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "up-and-running-with-wp-cli"
+  }
+}
