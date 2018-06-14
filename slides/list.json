@@ -1,1 +1,16 @@
-["index.md"]
+[
+    "index.md",
+    "what-is-wp-cli.md",
+    [
+        "common-commands.md",
+        "install-wordpress.md",
+        "manage-themes-and-plugins.md",
+        "managing-users-and-content.md",
+        "wordpress-internals.md"
+    ],
+    [
+        "writing-commands.md",
+        "a-simple-command.md"
+    ],
+    "thank-you.md"
+]
