@@ -1,5 +1,6 @@
 <!-- .slide: class="title-slide" -->
-# Up and Running<br>with WP-CLI
+# ![Up and Running<br>with WP-CLI](resources/title.svg)
+<!-- .element: style="font-size: 5em; margin-bottom: 0;" -->
 
 Steve Grunwell<br>
 [@stevegrunwell](https://twitter.com/stevegrunwell)

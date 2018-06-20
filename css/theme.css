@@ -314,7 +314,7 @@ body {
   .slides h1 img, .slides h2 img, .slides h3 img, .slides h4 img, .slides h5 img, .slides h6 img {
     border: none;
     box-shadow: none;
-    max-width: 50%;
+    max-width: 70%;
     max-height: 1.5em; }
   .slides h1 code, .slides h1 .reveal output, .reveal .slides h1 output, .slides h2 code, .slides h2 .reveal output, .reveal .slides h2 output, .slides h3 code, .slides h3 .reveal output, .reveal .slides h3 output, .slides h4 code, .slides h4 .reveal output, .reveal .slides h4 output, .slides h5 code, .slides h5 .reveal output, .reveal .slides h5 output, .slides h6 code, .slides h6 .reveal output, .reveal .slides h6 output {
     text-transform: none; }
