@@ -1,3 +1,5 @@
 ##  Common Commands
 
-This is a new Markdown slide
+Note:
+
+Some of the most commonly used commands, all of which ship with WP-CLI

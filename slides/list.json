@@ -5,8 +5,11 @@
         "common-commands.md",
         "install-wordpress.md",
         "manage-themes-and-plugins.md",
-        "managing-users-and-content.md",
-        "wordpress-internals.md"
+        "managing-users.md",
+        "managing-content.md",
+        "database.md",
+        "wordpress-internals.md",
+        "scaffolding.md"
     ],
     [
         "writing-commands.md",
