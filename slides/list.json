@@ -1,0 +1,19 @@
+[
+    "index.md",
+    "what-is-wp-cli.md",
+    [
+        "common-commands.md",
+        "install-wordpress.md",
+        "manage-themes-and-plugins.md",
+        "managing-users.md",
+        "managing-content.md",
+        "database.md",
+        "wordpress-internals.md",
+        "scaffolding.md"
+    ],
+    [
+        "writing-commands.md",
+        "a-simple-command.md"
+    ],
+    "thank-you.md"
+]
