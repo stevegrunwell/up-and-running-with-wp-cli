@@ -7,3 +7,9 @@ $ wp post generate --count=10 ...</code></div><div class="fragment fade-in" data
 $ wp term create ...</code><code class="lang-sh"># Update a term
 $ wp term update &lt;taxonomy&gt; &lt;term&gt;</code><code class="lang-sh"># Generate some terms
 $ wp term generate &lt;taxonomy&gt; --count=10</code></div></pre>
+
+Note:
+
+* Create and edit content from the command line
+* Generate test data, useful for theme devs
+* Similar interface for taxonomy terms
